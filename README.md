@@ -1,5 +1,7 @@
 # TDD Shorts — AI 기반 유튜브 쇼츠 자동 생성
 
+[TDD 쇼츠 유튜브](https://youtube.com/shorts/3-lFXU2J1Sw)
+
 > TDD(테스트 주도 개발)를 주제로 한 유튜브 쇼츠 영상을 **코드로 제작**한 프로젝트입니다.
 > React 컴포넌트로 영상을 구성하고, AI 음성을 자동 생성하여 삽입합니다.
 
